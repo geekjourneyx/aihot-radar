@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">AIHot Radar — From noise to signal</title><desc id="desc">A radar-inspired evidence pipeline showing discovery, verification, and trend analysis.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1018"/><stop offset="1" stop-color="#141D2A"/></linearGradient><radialGradient id="glow"><stop stop-color="#D2AD70" stop-opacity=".15"/><stop offset="1" stop-color="#D2AD70" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+<path d="M48 54H1152M48 365H1152" stroke="#556071" opacity=".28"/>
+<text x="66" y="92" font-size="17" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" letter-spacing="4" fill="#D3AD73">INTELLIGENCE / 001</text>
+<text x="64" y="194" font-size="74" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-3" fill="#F2F4F7">AIHot Radar</text>
+<text x="68" y="241" font-size="25" font-family="Arial, Helvetica, sans-serif" fill="#BAC4D1">From noise to signal.</text>
+<text x="68" y="319" font-size="15" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" fill="#9AA9B9">DISCOVER  /  VERIFY  /  TRACK</text>
+<circle cx="948" cy="206" r="208" fill="url(#glow)"/>
+<g stroke="#6F7B8B" fill="none" stroke-width="1.2" opacity=".55"><circle cx="948" cy="206" r="66"/><circle cx="948" cy="206" r="117"/><circle cx="948" cy="206" r="168"/><path d="M780 206h336M948 38v336"/></g>
+<path d="M948 206 L1084 106 A168 168 0 0 0 948 38 Z" fill="#D3AD73" opacity=".09"/>
+<path d="M948 206L1084 106" stroke="#D3AD73" stroke-width="2"/>
+<g fill="#D8B37C"><circle cx="1007" cy="174" r="6"/><circle cx="870" cy="124" r="4"/><circle cx="1055" cy="276" r="4"/></g>
+<g fill="#93A1B2"><circle cx="901" cy="245" r="3"/><circle cx="829" cy="192" r="3"/><circle cx="966" cy="303" r="3"/></g>
+<circle cx="948" cy="206" r="7" fill="#F1D5AA"/><circle cx="948" cy="206" r="14" stroke="#D3AD73" fill="none" opacity=".5"/>
+<text x="1100" y="348" text-anchor="end" font-size="12" font-family="ui-monospace, Consolas, monospace" fill="#8292A5">09:00 · 14:00 · 19:00</text>
+</svg>
